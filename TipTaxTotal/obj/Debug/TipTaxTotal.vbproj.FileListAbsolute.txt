@@ -1,0 +1,22 @@
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\bin\Debug\TipTaxTotal.exe.config
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\bin\Debug\TipTaxTotal.exe
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\bin\Debug\TipTaxTotal.pdb
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\bin\Debug\TipTaxTotal.xml
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.vbprojResolveAssemblyReference.cache
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.Form1.resources
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.Resources.resources
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.vbproj.GenerateResource.Cache
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.exe
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.xml
+C:\Users\Ali\AppData\Local\Temporary Projects\TipTaxTotal\obj\Debug\TipTaxTotal.pdb
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe.config
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.exe
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.xml
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.pdb
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.pdb
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.xml
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.vbprojResolveAssemblyReference.cache
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.Form1.resources
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.Resources.resources
+C:\Users\Ali\documents\visual studio 2015\Projects\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.vbproj.GenerateResource.Cache
